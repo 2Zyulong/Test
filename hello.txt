@@ -1,2 +1,2 @@
-﻿练习 git push - master 修改
+﻿练习 git push - 已解决 master 和分支的冲突
 这是在远程仓库网页上添加的一行
